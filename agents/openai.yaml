@@ -1,0 +1,4 @@
+interface:
+  display_name: "魔女刷子"
+  short_description: "将文档保真导出为纯文本并清除元数据与隐藏内容"
+  default_prompt: "使用 $monv-brush 将我提供的文档保真导出为 UTF-8 TXT，尽量保留段落、标题、列表和表格结构；不改写正文，并报告无法可靠保留的部分。"
